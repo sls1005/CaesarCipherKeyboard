@@ -12,8 +12,8 @@ android {
         applicationId = "test.sls1005.projects.caesarcipherkeyboard"
         minSdk = 24
         targetSdk = 35
-        versionCode = 3
-        versionName = "1.0.1"
+        versionCode = 4
+        versionName = "1.1.0"
     }
     signingConfigs {
         register("release") {
